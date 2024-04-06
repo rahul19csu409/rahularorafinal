@@ -1,0 +1,8 @@
+{
+  "defaultSchema": "rahularorafinal",
+  "assertionSchema": "dataform_assertions",
+  "warehouse": "bigquery",
+  "defaultDatabase": "angelic-triumph-414807",
+  "defaultLocation": "US"
+}
+    
