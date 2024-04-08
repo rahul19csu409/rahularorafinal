@@ -1,5 +1,5 @@
 {
-  "defaultSchema": "rahularorafinal1",
+  "defaultSchema": "rahularorafinal2",
   "assertionSchema": "dataform_assertions",
   "warehouse": "bigquery",
   "defaultDatabase": "angelic-triumph-414807",
