@@ -1,10 +1,13 @@
 config {
     type: "table",
-    description: "this is the aggregation table"
+    description: "this is our source"
 }
 
 SELECT
-  SUM(number) AS totalsum
-FROM
-  ${ref("second_view")} 
-
+  1 AS number
+UNION ALL
+SELECT
+  2 AS number
+UNION ALL
+SELECT
+  3 AS number
